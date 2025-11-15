@@ -1,0 +1,28 @@
+# Secrets/Env
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+coverage/
+dist/
+build/
+.next/
+out/
+
+# Java/Maven
+target/
+*.iml
+.idea/
+.settings/
+.project
+.classpath
+
+# Logs
+logs/
+*.log
